@@ -1,6 +1,6 @@
 # Elite-paper-links
 
-Elite: A framework for selecting trustworthy humans in high-risk AI systems.
+Elite: A framework for selecting trustworthy humans for critical human collaboration.
 
 There is currently no structured system to identify and match trustworthy individuals. 
 Elite provides a framework to fill this gap by using AI to evaluate responsibility, trust, and long-term stability.
