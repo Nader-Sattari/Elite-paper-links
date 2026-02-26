@@ -33,3 +33,17 @@ Elite: A Human-Centered Framework for Identifying and Selecting Trustworthy Elit
 ## Access Links
 - SSRN: https://ssrn.com/abstract=5933494
 - Zenodo: https://doi.org/10.5281/zenodo.18263355
+
+---
+## ⚡ Update: Research Pilot Phase (v138)
+**Status:** Active Evaluation (Target: 20 Researchers)
+
+This repository now includes the operational extension of the Elite methodology. We are specifically looking for PhD students and senior researchers to evaluate the **Cognitive Pattern Coding** logic.
+
+* **Live Console:** [Access Pilot Environment](https://match-1067501793122.us-central1.run.app/)
+* **Methodology Focus:** Decision Stability & "Replace, Don't Fix" Code Integrity.
+* **Deadline:** March 31, 2026
+
+**Important Note:** Item 29 (Dashboard Delete Button) is now implemented in the latest version.
+
+*Except your match was not found at the end of the period.*
